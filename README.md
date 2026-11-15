@@ -1,5 +1,12 @@
 # GLFW
 
+> [!WARNING]
+> このライブラリは最新バージョンのMinecraft Java Editionでは利用できません。詳細については[Minecraft Wiki](https://ja.minecraft.wiki/w/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB:%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B)で解説しています。  
+> このリポジトリは、2026年7月以降メンテナンスを行っておらず、フォーク元からの更新も行いませんのでご了承ください。
+> 
+> This library is not compatible with the latest version of Minecraft Java Edition. For more details, please refer to the [Minecraft Wiki (Japanese)](https://ja.minecraft.wiki/w/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB:%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B).  
+> Please note that this repository has not been maintained since July 2026 and will not sync updates from the original repository.
+
 [![Build status](https://github.com/glfw/glfw/actions/workflows/build.yml/badge.svg)](https://github.com/glfw/glfw/actions)
 [![Build status](https://ci.appveyor.com/api/projects/status/0kf0ct9831i5l6sp/branch/master?svg=true)](https://ci.appveyor.com/project/elmindreda/glfw)
 
